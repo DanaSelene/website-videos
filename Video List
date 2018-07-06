@@ -1,0 +1,79 @@
+<html>
+<mata>
+
+</mata>
+
+<style>
+h1{
+  color:#003399;
+  text-align:center;//important-where is the text
+  
+}
+body{
+  background:#9999ff;
+}
+ul{
+  font-family:verdana;
+  background:#8080ff; 
+  font-color:#b3b3ff;
+  border: 5px solid ##6666ff;//important-the 方框
+  //padding: 30px;//important- the distance between the text and the border
+}
+
+table,th,td{//??????
+  style="100%" ;
+  border= 5px solid ;
+  text-align=center;//padding??????
+}
+table,tr{
+  padding:20px;
+}
+
+</style> 
+
+<head>
+
+</head>
+
+<body>
+<h1>
+<b> My personal video Storary</b>
+</h1>
+
+<ul>
+  <li><a href="https://www.google.com">Home-Google </a>     </li>
+
+  <li>Video Lists </li>
+  <li>Database</li>
+</ul>
+
+<table>
+  <tr>
+    <th> Year </th>
+    <th> Date </th>
+    <th> Rating </th>
+    <th> Tags </th>
+    <th> Who</th>
+  </tr>
+  
+  <tr>
+    <td> 2017 </td>
+    <td> 12/7 </td>
+    <td> 5/5 </td>
+    <td> Family, cute, bro and sis </td>
+    <td> Nathan, Mimi</td>
+  </tr>
+
+  <tr>
+    <td> 2018 </td>
+    <td> 7/1 </td>
+    <td> 4/5 </td>
+    <td> sad, leaving, couples </td>
+    <td> Dana, Stan </td>
+  </tr>
+</table>
+
+</body>
+
+
+</html>
