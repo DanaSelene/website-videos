@@ -5,7 +5,9 @@
 
 <style>
 h1{
-  color:#330080;
+  color:#003399;
+  text-align:center;//important-where is the text
+  
 }
 body{
   background:#9999ff;
@@ -14,6 +16,8 @@ ul{
   font-family:verdana;
   background:#8080ff; 
   font-color:#b3b3ff;
+  border: 5px solid ##6666ff;//important-the 方框
+  //padding: 30px;//important- the distance between the text and the border
 
 }
 
@@ -25,8 +29,9 @@ ul{
 
 <body>
 <h1>
-Dana's personal video Storary
+<b> My personal video Storary</b>
 </h1>
+
 <ul>
   <li><a href="https://www.google.com">Home-Google </a>     </li>
 
