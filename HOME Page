@@ -4,6 +4,18 @@
 </mata>
 
 <style>
+h1{
+  color:#330080;
+}
+body{
+  background:#9999ff;
+}
+ul{
+  font-family:verdana;
+  background:#8080ff; 
+  font-color:#b3b3ff;
+
+}
 
 </style> 
 
@@ -15,7 +27,12 @@
 <h1>
 Dana's personal video Storary
 </h1>
+<ul>
+  <li><a href="https://www.google.com">Home-Google </a>     </li>
 
+  <li>Video Lists </li>
+  <li>Database</li>
+</ul>
 
 </body>
 
