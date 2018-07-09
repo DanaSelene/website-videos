@@ -12,13 +12,32 @@ h1{
 body{
   background:#9999ff;
 }
-ul{
-  font-family:verdana;
-  background:#8080ff; 
-  font-color:#b3b3ff;
-  border: 5px solid ##6666ff;//important-the 方框
-  //padding: 30px;//important- the distance between the text and the border
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
 
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: blue;
+}
+
+.active {
+    background-color: skyblue;
 }
 
 </style> 
@@ -34,9 +53,8 @@ ul{
 
 <ul>
   <li><a href="https://www.google.com">Home-Google </a>     </li>
-
-  <li>Video Lists </li>
-  <li>Database</li>
+  <li><a class="active"  href="https://www.google.com">Video Lists-Google </a> </li>
+  <li><a href="https://www.google.com">Database-Google </a></li>
 </ul>
 
 </body>
