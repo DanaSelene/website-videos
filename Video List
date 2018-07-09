@@ -68,27 +68,30 @@ table,tr{
 
 <table>
   <tr>
+    <th> Name </th>
     <th> Year </th>
-    <th> Date </th>
     <th> Rating </th>
     <th> Tags </th>
     <th> Who</th>
+    <th> Photo </th>
   </tr>
   
   <tr>
+    <td> 当你沉睡时 </td>
     <td> 2017 </td>
-    <td> 12/7 </td>
-    <td> 5/5 </td>
-    <td> Family, cute, bro and sis </td>
-    <td> Nathan, Mimi</td>
+    <td> 8/10 </td>
+    <td> romance, superPower, superStar </td>
+    <td> 秀智，李钟硕</td>
+    <td><img src="https://bit.ly/fcc-relaxing-cat" alt="Nice"  >
   </tr>
 
   <tr>
+   <td> 金秘书为何那样？ </td>
     <td> 2018 </td>
-    <td> 7/1 </td>
-    <td> 4/5 </td>
-    <td> sad, leaving, couples </td>
-    <td> Dana, Stan </td>
+    <td> 9/10 </td>
+    <td> 爱情，职场，迟钝，搞笑</td>
+    <td> 美女帅哥 </td>
+    <td> <img src="https://bit.ly/fcc-relaxing-cat" alt="cat 2" > </td>
   </tr>
 </table>
 
