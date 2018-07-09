@@ -52,8 +52,8 @@ li a:hover:not(.active) {
 </h1>
 
 <ul>
-  <li><a href="https://www.google.com">Home-Google </a>     </li>
-  <li><a class="active"  href="https://www.google.com">Video Lists-Google </a> </li>
+  <li><a class="active"  href="https://www.google.com">Home-Google </a>     </li>
+  <li><a href="https://www.google.com">Video Lists-Google </a> </li>
   <li><a href="https://www.google.com">Database-Google </a></li>
 </ul>
 
